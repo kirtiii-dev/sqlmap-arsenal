@@ -1,11 +1,20 @@
-# SQLMap Notes
+# SQLMap Arsenal 🛡️
 
-Practice commands for SQL injection testing.
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub Stars](https://img.shields.io/github/stars/kirtiii-dev/sqlmap-arsenal)
+
+Weaponized SQLMap cheatsheet for ethical hackers.
+
+## Contents
+- Basic Commands
+- Advanced Commands  
+- Tamper Scripts
+- WAF Bypass Methods
+
+## Tools Required
+- SQLMap
+- Burp Suite
+- DVWA / HackTheBox
 
 ## Disclaimer
-All commands tested on:
-- DVWA (Damn Vulnerable Web App)
-- HackTheBox / TryHackMe labs
-- Legal authorized targets only
-
-DO NOT use on any site without permission.
+For educational and authorized use only.
